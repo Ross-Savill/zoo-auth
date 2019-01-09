@@ -1,0 +1,15 @@
+{
+  "name": "zoo-authentication",
+  "version": "1.0.0",
+  "description": "authorisation testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "Ross",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
